@@ -1,0 +1,41 @@
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe.config
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\bin\Debug\Platformer.pdb
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.csproj.GenerateResource.Cache
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.exe
+C:\Users\jared\Desktop\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.pdb
+E:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe.config
+E:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.exe
+E:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.pdb
+E:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe
+E:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.pdb
+E:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.csprojResolveAssemblyReference.cache
+E:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+E:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.csproj.GenerateResource.Cache
+J:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe.config
+J:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.exe
+J:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.pdb
+J:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe
+J:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.pdb
+J:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.csprojResolveAssemblyReference.cache
+J:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+J:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.csproj.GenerateResource.Cache
+G:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe.config
+G:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe
+G:\Stuff from Jared\Platformer\Platformer\Platformer\bin\Debug\Platformer.pdb
+G:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.csprojResolveAssemblyReference.cache
+G:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+G:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.csproj.GenerateResource.Cache
+G:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.exe
+G:\Stuff from Jared\Platformer\Platformer\Platformer\obj\Debug\Platformer.pdb
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe.config
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\bin\Debug\Platformer.exe
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\bin\Debug\Platformer.pdb
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.csprojAssemblyReference.cache
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.csproj.GenerateResource.cache
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.csproj.CoreCompileInputs.cache
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.exe
+C:\Users\jared\Desktop\School Work\2016-2017 School Work\Game Programming\Platformer\Platformer\Platformer\obj\Debug\Platformer.pdb
